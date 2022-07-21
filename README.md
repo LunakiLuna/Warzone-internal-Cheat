@@ -2,7 +2,7 @@
 
 ### Modern warefare / warzone cheat
 
-- esp
+- ESP
 - aimbot
 - no recoil
 - imgui menu
