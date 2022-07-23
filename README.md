@@ -1,6 +1,6 @@
 # Warzone-internal Cheat
 
-### Modern warefare / warzone cheat
+### Modern warefare / warzone cheato
 
 - ESP
 - aimbot
